@@ -1,4 +1,4 @@
-Walmart Sales Dashboard (Excel VBA)
+## Walmart Sales Dashboard (Excel VBA)
 Overview
 
 This project is an Excel VBA retail analytics dashboard built using Walmart weekly sales data (2010–2012). The dashboard automates KPI reporting, store performance analysis, validation workflows, and interactive dashboard refresh processes using modular VBA automation.
@@ -15,9 +15,18 @@ Features
 - Dashboard Preview
 - Main Dashboard
 
-Documentation Sheet
+## Dashboard Preview
 
-VBA Architecture
+### Main Dashboard
+![Dashboard](dashbaord.png)
+
+## Documentation Sheet
+
+![Documentation](documentation.png)
+
+## VBA Architecture
+
+![VBA Architecture](vba_modules.png)
 
 - KPI Metrics
 - Total Sales
