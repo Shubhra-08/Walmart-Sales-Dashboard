@@ -18,7 +18,7 @@ Features
 ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](dashbaord.png)
+![Dashboard](dashboard.png)
 
 ## Documentation Sheet
 
