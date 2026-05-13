@@ -15,18 +15,22 @@ Features
 - Dashboard Preview
 - Main Dashboard
 
+## Tableau Dashboards
+- KPI & Performance Analytics
+- Economic Drivers & Sales Correlation Analysis
+
 ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ## Documentation Sheet
 
-![Documentation](documentation.png)
+![Documentation](Screenshots/documentation.png)
 
 ## VBA Architecture
 
-![VBA Architecture](vba_modules.png)
+![VBA Architecture](Screenshots/vba_modules.png)
 
 - KPI Metrics
 - Total Sales
