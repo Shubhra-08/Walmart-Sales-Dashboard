@@ -19,6 +19,12 @@ Features
 - KPI & Performance Analytics
 - Economic Drivers & Sales Correlation Analysis
 
+## Live Tableau Dashboard
+
+View the interactive Tableau dashboards here:
+
+[View on Tableau Public](https://public.tableau.com/app/profile/shubhra.rashmi/viz/WalmartSalesDashboard_17786551915550/Dashboard1?publish=yes)
+
 ## Dashboard Preview
 
 ### Main Dashboard
